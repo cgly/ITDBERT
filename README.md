@@ -7,7 +7,8 @@ Extracting user behaviour semantics with Temporal information embedded
 - torch 1.7.0+cu110
 - Keras 2.3.0
 
-##Usage
+## Usage
+
 ```
 # Prd-Train and insider threat detection：
 # MaskedLM +(emb/CLS)
