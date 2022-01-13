@@ -29,10 +29,6 @@ python ActModel_train.py
 
 ![image](https://github.com/cgly/ITDBERT/blob/main/tsne.png)
 
-Each point represents an embedded representation of behavior type - time
-
-e.g. Email-13: send email at 1.PM 
-
 ## Files
 - data: the dataset after data preprocessing
 - deeplog: the implementation of  deeplog model
