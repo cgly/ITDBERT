@@ -1,5 +1,5 @@
 # ITDBERT: An insider threat detection Framework based on sequence semantics
-This is a PyTorch implementation of [ITDBERT: Temporal-semantic Representation for Insider Threat Detection]([ITDBERT: Temporal-semantic Representation for Insider Threat Detection | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/document/9631538)).
+This is a PyTorch implementation of [ITDBERT: Temporal-semantic Representation for Insider Threat Detection](https://ieeexplore.ieee.org/document/9631538).
 Extracting user behaviour semantics with Temporal information embedded 
 ## Required packages
 - python 3.7 
