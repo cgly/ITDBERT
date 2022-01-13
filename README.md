@@ -25,6 +25,8 @@ python ActModel_train.py
 ```
 
 ## Visualize the embedding results of word2vec via tsne
+Each point represents an embedded representation of behavior type - time
+e.g. Email-13: send email at 1.PM
 ![image](https://github.com/cgly/ITDBERT/blob/main/tsne.png)
 
 ## Files
