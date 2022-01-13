@@ -25,7 +25,7 @@ python ActModel_train.py
 ```
 
 ## Visualize the embedding results of word2vec via tsne
-![image](https://github.com/cgly/ITDBERT/blob/main/tsne%20.png)
+![image](https://github.com/cgly/ITDBERT/blob/main/tsne.png)
 
 ## Files
 - data: the dataset after data preprocessing
